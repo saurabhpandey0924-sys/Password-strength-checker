@@ -196,7 +196,7 @@ where n = length of password.
 
 GitHub: https://github.com/Saurabh_Pandey
 
-LinkedIn:linkedin.com/in/saurabh-p-pandey
+LinkedIn: www.linkedin.com/in/saurabh-p-pandey-754923414
 
 ---
 
